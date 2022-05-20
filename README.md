@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @krystianbroniszewski
+- 👀 I’m interested in IT, astro, history and genealogy
+- 📫 krystian < at > broniszewski < dot > info
